@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\obj\Debug\6. Quadratic Equation.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\obj\Debug\_6.Quadratic_Equation.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\obj\Debug\_6.Quadratic_Equation.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\obj\Debug\_6.Quadratic_Equation.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\6. Quadratic Equation\obj\Debug\_6.Quadratic_Equation.pdb

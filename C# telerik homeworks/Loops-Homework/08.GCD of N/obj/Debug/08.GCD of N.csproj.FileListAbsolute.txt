@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\08.GCD of N\bin\Debug\08.GCD of N.exe.config
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\08.GCD of N\bin\Debug\08.GCD of N.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\08.GCD of N\bin\Debug\08.GCD of N.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\08.GCD of N\obj\Debug\08.GCD of N.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\08.GCD of N\obj\Debug\08.GCD of N.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\08.GCD of N\obj\Debug\08.GCD of N.pdb

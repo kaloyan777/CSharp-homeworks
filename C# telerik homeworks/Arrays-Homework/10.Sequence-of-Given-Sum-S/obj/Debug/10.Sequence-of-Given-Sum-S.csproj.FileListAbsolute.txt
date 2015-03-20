@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\Arrays-Homework\10.Sequence-of-Given-Sum-S\bin\Debug\10.Sequence-of-Given-Sum-S.exe.config
+C:\Users\BORN\Desktop\Arrays-Homework\10.Sequence-of-Given-Sum-S\bin\Debug\10.Sequence-of-Given-Sum-S.exe
+C:\Users\BORN\Desktop\Arrays-Homework\10.Sequence-of-Given-Sum-S\bin\Debug\10.Sequence-of-Given-Sum-S.pdb
+C:\Users\BORN\Desktop\Arrays-Homework\10.Sequence-of-Given-Sum-S\obj\Debug\10.Sequence-of-Given-Sum-S.exe
+C:\Users\BORN\Desktop\Arrays-Homework\10.Sequence-of-Given-Sum-S\obj\Debug\10.Sequence-of-Given-Sum-S.pdb
+C:\Users\BORN\Desktop\Arrays-Homework\10.Sequence-of-Given-Sum-S\obj\Debug\10.Sequence-of-Given-Sum-S.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\10.Sequence-of-Given-Sum-S\bin\Debug\10.Sequence-of-Given-Sum-S.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\10.Sequence-of-Given-Sum-S\obj\Debug\10.Sequence-of-Given-Sum-S.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\10.Sequence-of-Given-Sum-S\obj\Debug\10.Sequence-of-Given-Sum-S.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\10.Sequence-of-Given-Sum-S\bin\Debug\10.Sequence-of-Given-Sum-S.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\10.Sequence-of-Given-Sum-S\bin\Debug\10.Sequence-of-Given-Sum-S.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\10.Sequence-of-Given-Sum-S\obj\Debug\10.Sequence-of-Given-Sum-S.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\bin\Debug\_2.Print_Company_Information.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\bin\Debug\_2.Print_Company_Information.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\bin\Debug\_2.Print_Company_Information.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\obj\Debug\2. Print Company Information.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\obj\Debug\_2.Print_Company_Information.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\obj\Debug\_2.Print_Company_Information.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\bin\Debug\_2.Print_Company_Information.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\obj\Debug\_2.Print_Company_Information.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\2. Print Company Information\obj\Debug\_2.Print_Company_Information.pdb

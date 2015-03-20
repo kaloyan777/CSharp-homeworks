@@ -1,0 +1,5 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\First1000Members\bin\Debug\First1000Members.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\First1000Members\bin\Debug\First1000Members.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\First1000Members\bin\Debug\First1000Members.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\First1000Members\obj\Debug\First1000Members.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\First1000Members\obj\Debug\First1000Members.pdb

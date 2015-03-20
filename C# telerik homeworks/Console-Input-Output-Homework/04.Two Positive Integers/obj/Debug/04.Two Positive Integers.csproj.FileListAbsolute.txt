@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\04.Two Positive Integers\bin\Debug\04.Two Positive Integers.exe.config
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\04.Two Positive Integers\bin\Debug\04.Two Positive Integers.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\04.Two Positive Integers\bin\Debug\04.Two Positive Integers.pdb
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\04.Two Positive Integers\obj\Debug\04.Two Positive Integers.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\04.Two Positive Integers\obj\Debug\04.Two Positive Integers.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\04.Two Positive Integers\obj\Debug\04.Two Positive Integers.pdb

@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\04.Array.BinSearch\bin\Debug\04.Array.BinSearch.exe.config
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\04.Array.BinSearch\obj\Debug\04.Array.BinSearch.csprojResolveAssemblyReference.cache

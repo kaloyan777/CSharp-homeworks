@@ -1,0 +1,10 @@
+C:\Users\BORN\Desktop\Arrays-Homework\12.Array-Alphabet\bin\Debug\12.Array-Alphabet.exe.config
+C:\Users\BORN\Desktop\Arrays-Homework\12.Array-Alphabet\bin\Debug\12.Array-Alphabet.exe
+C:\Users\BORN\Desktop\Arrays-Homework\12.Array-Alphabet\bin\Debug\12.Array-Alphabet.pdb
+C:\Users\BORN\Desktop\Arrays-Homework\12.Array-Alphabet\obj\Debug\12.Array-Alphabet.exe
+C:\Users\BORN\Desktop\Arrays-Homework\12.Array-Alphabet\obj\Debug\12.Array-Alphabet.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\12.Array-Alphabet\bin\Debug\12.Array-Alphabet.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\12.Array-Alphabet\obj\Debug\12.Array-Alphabet.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\12.Array-Alphabet\obj\Debug\12.Array-Alphabet.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\12.Array-Alphabet\bin\Debug\12.Array-Alphabet.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\12.Array-Alphabet\bin\Debug\12.Array-Alphabet.pdb

@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Homework1\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Homework1\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Homework1\HelloCSharp\obj\Debug\HelloCSharp.pdb

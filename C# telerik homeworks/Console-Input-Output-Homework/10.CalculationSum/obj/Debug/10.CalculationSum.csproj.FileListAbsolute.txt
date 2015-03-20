@@ -1,0 +1,18 @@
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.exe.config
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.exe
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.pdb
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.csprojResolveAssemblyReference.cache
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.exe
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.pdb
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.exe.config
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.exe
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.pdb
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.exe
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.pdb
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Downloads\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.exe.config
+C:\Users\BORN\Downloads\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.exe
+C:\Users\BORN\Downloads\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.pdb
+C:\Users\BORN\Downloads\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.exe
+C:\Users\BORN\Downloads\4.HomeWork\10.CalculationSum\bin\Debug\10.CalculationSum.pdb
+C:\Users\BORN\Downloads\4.HomeWork\10.CalculationSum\obj\Debug\10.CalculationSum.csprojResolveAssemblyReference.cache

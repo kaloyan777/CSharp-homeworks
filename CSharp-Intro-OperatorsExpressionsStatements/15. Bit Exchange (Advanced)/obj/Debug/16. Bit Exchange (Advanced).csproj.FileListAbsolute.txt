@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\15. Bit Exchange (Advanced)\bin\Debug\_15.Bit_Exchange__Advanced_.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\15. Bit Exchange (Advanced)\bin\Debug\_15.Bit_Exchange__Advanced_.exe.config

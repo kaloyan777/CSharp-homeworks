@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\05.If The Bit 3 Is 1 or 0\bin\Debug\05.If The Bit 3 Is 1 or 0.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\05.If The Bit 3 Is 1 or 0\bin\Debug\05.If The Bit 3 Is 1 or 0.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\05.If The Bit 3 Is 1 or 0\bin\Debug\05.If The Bit 3 Is 1 or 0.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\05.If The Bit 3 Is 1 or 0\obj\Debug\05.If The Bit 3 Is 1 or 0.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Solution1\05.If The Bit 3 Is 1 or 0\obj\Debug\05.If The Bit 3 Is 1 or 0.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\05.If The Bit 3 Is 1 or 0\obj\Debug\05.If The Bit 3 Is 1 or 0.pdb

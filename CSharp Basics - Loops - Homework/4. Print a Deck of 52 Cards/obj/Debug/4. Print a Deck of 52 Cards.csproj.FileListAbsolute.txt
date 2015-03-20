@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\bin\Debug\_4.Print_a_Deck_of_52_Cards.exe.config
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\bin\Debug\_4.Print_a_Deck_of_52_Cards.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\bin\Debug\_4.Print_a_Deck_of_52_Cards.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\obj\Debug\_4.Print_a_Deck_of_52_Cards.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\obj\Debug\_4.Print_a_Deck_of_52_Cards.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\obj\Debug\4. Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\bin\Debug\_4.Print_a_Deck_of_52_Cards.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\obj\Debug\_4.Print_a_Deck_of_52_Cards.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\obj\Debug\_4.Print_a_Deck_of_52_Cards.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\bin\Debug\_4.Print_a_Deck_of_52_Cards.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\bin\Debug\_4.Print_a_Deck_of_52_Cards.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\4. Print a Deck of 52 Cards\obj\Debug\4. Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\16. Bits Exchange\bin\Debug\_16.Bits_Exchange.exe.config
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\16. Bits Exchange\bin\Debug\_16.Bits_Exchange.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\16. Bits Exchange\bin\Debug\_16.Bits_Exchange.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\16. Bits Exchange\obj\Debug\15. Bits Exchange.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\16. Bits Exchange\obj\Debug\_16.Bits_Exchange.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\16. Bits Exchange\obj\Debug\_16.Bits_Exchange.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\16. Bits Exchange\bin\Debug\_16.Bits_Exchange.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\16. Bits Exchange\obj\Debug\_16.Bits_Exchange.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\16. Bits Exchange\obj\Debug\_16.Bits_Exchange.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\16. Bits Exchange\bin\Debug\_16.Bits_Exchange.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\16. Bits Exchange\bin\Debug\_16.Bits_Exchange.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\16. Bits Exchange\obj\Debug\15. Bits Exchange.csprojResolveAssemblyReference.cache

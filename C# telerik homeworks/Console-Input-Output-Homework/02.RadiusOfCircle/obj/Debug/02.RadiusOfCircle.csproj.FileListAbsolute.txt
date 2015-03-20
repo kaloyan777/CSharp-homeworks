@@ -1,0 +1,15 @@
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\02.RadiusOfCircle\bin\Debug\02.RadiusOfCircle.exe.config
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\02.RadiusOfCircle\bin\Debug\02.RadiusOfCircle.exe
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\02.RadiusOfCircle\bin\Debug\02.RadiusOfCircle.pdb
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\02.RadiusOfCircle\obj\Debug\02.RadiusOfCircle.csprojResolveAssemblyReference.cache
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\02.RadiusOfCircle\obj\Debug\02.RadiusOfCircle.exe
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\02.RadiusOfCircle\obj\Debug\02.RadiusOfCircle.pdb
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\02.RadiusOfCircle\bin\Debug\02.RadiusOfCircle.exe.config
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\02.RadiusOfCircle\obj\Debug\02.RadiusOfCircle.exe
+C:\Users\Radka-87\Desktop\HomeWork\4\4.HomeWork\02.RadiusOfCircle\obj\Debug\02.RadiusOfCircle.pdb
+C:\Users\BORN\Downloads\4.HomeWork\02.RadiusOfCircle\bin\Debug\02.RadiusOfCircle.exe.config
+C:\Users\BORN\Downloads\4.HomeWork\02.RadiusOfCircle\obj\Debug\02.RadiusOfCircle.exe
+C:\Users\BORN\Downloads\4.HomeWork\02.RadiusOfCircle\obj\Debug\02.RadiusOfCircle.pdb
+C:\Users\BORN\Downloads\4.HomeWork\02.RadiusOfCircle\bin\Debug\02.RadiusOfCircle.exe
+C:\Users\BORN\Downloads\4.HomeWork\02.RadiusOfCircle\bin\Debug\02.RadiusOfCircle.pdb
+C:\Users\BORN\Downloads\4.HomeWork\02.RadiusOfCircle\obj\Debug\02.RadiusOfCircle.csprojResolveAssemblyReference.cache

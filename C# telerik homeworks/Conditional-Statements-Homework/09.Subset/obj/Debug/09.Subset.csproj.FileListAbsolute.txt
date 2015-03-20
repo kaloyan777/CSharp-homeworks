@@ -1,0 +1,9 @@
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\09.Subset\bin\Debug\09.Subset.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\09.Subset\bin\Debug\09.Subset.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\09.Subset\bin\Debug\09.Subset.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\09.Subset\obj\Debug\09.Subset.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\09.Subset\obj\Debug\09.Subset.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\09.Subset\obj\Debug\09.Subset.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\09.Subset\bin\Debug\09.Subset.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\09.Subset\obj\Debug\09.Subset.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\09.Subset\obj\Debug\09.Subset.pdb

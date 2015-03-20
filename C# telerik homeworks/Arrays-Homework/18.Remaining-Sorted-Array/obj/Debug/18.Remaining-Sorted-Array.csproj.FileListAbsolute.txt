@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\Arrays-Homework\18.Remaining-Sorted-Array\bin\Debug\18.Remaining-Sorted-Array.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\18.Remaining-Sorted-Array\bin\Debug\18.Remaining-Sorted-Array.exe.config

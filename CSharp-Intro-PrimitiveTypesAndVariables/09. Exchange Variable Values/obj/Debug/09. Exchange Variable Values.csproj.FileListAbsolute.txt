@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb

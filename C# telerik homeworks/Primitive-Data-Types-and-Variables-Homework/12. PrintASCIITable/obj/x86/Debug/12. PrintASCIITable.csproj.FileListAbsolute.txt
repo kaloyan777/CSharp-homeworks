@@ -1,0 +1,4 @@
+C:\Users\BORN\Downloads\12. PrintASCIITable\bin\Debug\PrintASCIITable.exe
+C:\Users\BORN\Downloads\12. PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+C:\Users\BORN\Downloads\12. PrintASCIITable\obj\x86\Debug\PrintASCIITable.exe
+C:\Users\BORN\Downloads\12. PrintASCIITable\obj\x86\Debug\PrintASCIITable.pdb

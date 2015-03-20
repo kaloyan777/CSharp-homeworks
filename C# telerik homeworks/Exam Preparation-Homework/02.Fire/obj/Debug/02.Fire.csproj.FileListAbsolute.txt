@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\02.Fire\bin\Debug\02.Fire.exe.config
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\02.Fire\bin\Debug\02.Fire.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\02.Fire\bin\Debug\02.Fire.pdb
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\02.Fire\obj\Debug\02.Fire.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\02.Fire\obj\Debug\02.Fire.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\02.Fire\obj\Debug\02.Fire.pdb

@@ -1,0 +1,5 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\PrintNumbers-1,101,1001\bin\Debug\PrintNumbers-1,101,1001.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\PrintNumbers-1,101,1001\bin\Debug\PrintNumbers-1,101,1001.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\PrintNumbers-1,101,1001\bin\Debug\PrintNumbers-1,101,1001.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\PrintNumbers-1,101,1001\obj\Debug\PrintNumbers-1,101,1001.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\PrintNumbers-1,101,1001\obj\Debug\PrintNumbers-1,101,1001.pdb

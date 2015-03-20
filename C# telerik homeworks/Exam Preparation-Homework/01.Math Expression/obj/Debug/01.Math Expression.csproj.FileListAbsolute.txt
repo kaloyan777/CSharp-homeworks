@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\01.Math Expression\bin\Debug\01.Math Expression.exe.config
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\01.Math Expression\bin\Debug\01.Math Expression.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\01.Math Expression\bin\Debug\01.Math Expression.pdb
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\01.Math Expression\obj\Debug\01.Math Expression.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\01.Math Expression\obj\Debug\01.Math Expression.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\01.Math Expression\obj\Debug\01.Math Expression.pdb

@@ -1,0 +1,10 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\obj\Debug\_9.Play_with_Int__Double_and_String.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\obj\Debug\_9.Play_with_Int__Double_and_String.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\obj\Debug\_9.Play_with_Int__Double_and_String.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\obj\Debug\_9.Play_with_Int__Double_and_String.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.pdb

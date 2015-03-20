@@ -1,0 +1,9 @@
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb

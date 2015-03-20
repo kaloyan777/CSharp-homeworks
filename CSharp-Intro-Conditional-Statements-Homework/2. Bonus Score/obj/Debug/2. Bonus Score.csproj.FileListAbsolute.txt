@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\2. Bonus Score\bin\Debug\_2.Bonus_Score.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\2. Bonus Score\bin\Debug\_2.Bonus_Score.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\2. Bonus Score\bin\Debug\_2.Bonus_Score.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\2. Bonus Score\obj\Debug\_2.Bonus_Score.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\2. Bonus Score\obj\Debug\_2.Bonus_Score.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\2. Bonus Score\bin\Debug\_2.Bonus_Score.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\2. Bonus Score\obj\Debug\_2.Bonus_Score.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\2. Bonus Score\obj\Debug\_2.Bonus_Score.pdb

@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe.config

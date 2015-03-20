@@ -1,0 +1,7 @@
+C:\Users\BORN\Desktop\Arrays-Homework\14.Quick-Sort-Algorithm\bin\Debug\14.Quick-Sort-Algorithm.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\14.Quick-Sort-Algorithm\bin\Debug\14.Quick-Sort-Algorithm.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\14.Quick-Sort-Algorithm\obj\Debug\14.Quick-Sort-Algorithm.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\14.Quick-Sort-Algorithm\bin\Debug\14.Quick-Sort-Algorithm.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\14.Quick-Sort-Algorithm\bin\Debug\14.Quick-Sort-Algorithm.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\14.Quick-Sort-Algorithm\obj\Debug\14.Quick-Sort-Algorithm.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\14.Quick-Sort-Algorithm\obj\Debug\14.Quick-Sort-Algorithm.pdb

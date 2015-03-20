@@ -1,0 +1,6 @@
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\2. Prime Checker\bin\Debug\_2.Prime_Checker.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\2. Prime Checker\bin\Debug\_2.Prime_Checker.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\2. Prime Checker\bin\Debug\_2.Prime_Checker.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\2. Prime Checker\obj\Debug\_2.Prime_Checker.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\2. Prime Checker\obj\Debug\_2.Prime_Checker.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\2. Prime Checker\obj\Debug\2. Prime Checker.csprojResolveAssemblyReference.cache

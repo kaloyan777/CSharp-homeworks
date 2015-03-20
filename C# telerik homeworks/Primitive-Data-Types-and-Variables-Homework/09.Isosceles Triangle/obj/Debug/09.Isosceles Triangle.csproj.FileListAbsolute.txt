@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\09.Isosceles Triangle\bin\Debug\09.Isosceles Triangle.exe.config
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\09.Isosceles Triangle\obj\Debug\09.Isosceles Triangle.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\09.Isosceles Triangle\bin\Debug\09.Isosceles Triangle.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\09.Isosceles Triangle\bin\Debug\09.Isosceles Triangle.pdb
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\09.Isosceles Triangle\obj\Debug\09.Isosceles Triangle.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\09.Isosceles Triangle\obj\Debug\09.Isosceles Triangle.pdb

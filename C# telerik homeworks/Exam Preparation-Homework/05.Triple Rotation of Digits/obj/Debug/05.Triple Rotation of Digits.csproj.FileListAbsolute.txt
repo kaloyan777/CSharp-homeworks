@@ -1,0 +1,5 @@
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.Triple Rotation of Digits\bin\Debug\05.Triple Rotation of Digits.exe.config
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.Triple Rotation of Digits\bin\Debug\05.Triple Rotation of Digits.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.Triple Rotation of Digits\bin\Debug\05.Triple Rotation of Digits.pdb
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.Triple Rotation of Digits\obj\Debug\05.Triple Rotation of Digits.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.Triple Rotation of Digits\obj\Debug\05.Triple Rotation of Digits.pdb

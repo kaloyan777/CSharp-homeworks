@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\bin\Debug\_4.Multiplication_Sign.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\bin\Debug\_4.Multiplication_Sign.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\bin\Debug\_4.Multiplication_Sign.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\obj\Debug\4. Multiplication Sign.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\obj\Debug\_4.Multiplication_Sign.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\obj\Debug\_4.Multiplication_Sign.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\bin\Debug\_4.Multiplication_Sign.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\obj\Debug\_4.Multiplication_Sign.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\4. Multiplication Sign\obj\Debug\_4.Multiplication_Sign.pdb

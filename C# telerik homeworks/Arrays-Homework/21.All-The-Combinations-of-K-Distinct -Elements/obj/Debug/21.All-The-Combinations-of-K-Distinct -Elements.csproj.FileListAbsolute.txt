@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\Arrays-Homework\21.All-The-Combinations-of-K-Distinct -Elements\bin\Debug\21.All-The-Combinations-of-K-Distinct -Elements.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\21.All-The-Combinations-of-K-Distinct -Elements\bin\Debug\21.All-The-Combinations-of-K-Distinct -Elements.exe.config

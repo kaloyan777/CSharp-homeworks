@@ -1,0 +1,10 @@
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\9. Matrix of Numbers\bin\Debug\_9.Matrix_of_Numbers.exe.config
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\9. Matrix of Numbers\bin\Debug\_9.Matrix_of_Numbers.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\9. Matrix of Numbers\bin\Debug\_9.Matrix_of_Numbers.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\9. Matrix of Numbers\obj\Debug\_9.Matrix_of_Numbers.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\9. Matrix of Numbers\obj\Debug\_9.Matrix_of_Numbers.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\9. Matrix of Numbers\bin\Debug\_9.Matrix_of_Numbers.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\9. Matrix of Numbers\obj\Debug\_9.Matrix_of_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\9. Matrix of Numbers\obj\Debug\_9.Matrix_of_Numbers.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\9. Matrix of Numbers\bin\Debug\_9.Matrix_of_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\9. Matrix of Numbers\bin\Debug\_9.Matrix_of_Numbers.pdb

@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\obj\Debug\5. Formatting Numbers.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.pdb

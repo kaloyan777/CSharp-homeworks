@@ -1,0 +1,12 @@
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\08.Int Double or String\bin\Debug\08.Int Double or String.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\08.Int Double or String\bin\Debug\08.Int Double or String.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\08.Int Double or String\bin\Debug\08.Int Double or String.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\08.Int Double or String\obj\Debug\08.Int Double or String.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\08.Int Double or String\obj\Debug\08.Int Double or String.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\08.Int Double or String\obj\Debug\08.Int Double or String.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\08.Int Double or String\bin\Debug\08.Int Double or String.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\08.Int Double or String\obj\Debug\08.Int Double or String.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\08.Int Double or String\obj\Debug\08.Int Double or String.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\08.Int Double or String\bin\Debug\08.Int Double or String.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\08.Int Double or String\bin\Debug\08.Int Double or String.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\08.Int Double or String\obj\Debug\08.Int Double or String.csprojResolveAssemblyReference.cache

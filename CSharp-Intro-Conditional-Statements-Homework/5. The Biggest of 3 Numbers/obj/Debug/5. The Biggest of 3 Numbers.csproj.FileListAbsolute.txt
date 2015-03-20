@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\bin\Debug\_5.The_Biggest_of_3_Numbers.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\bin\Debug\_5.The_Biggest_of_3_Numbers.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\bin\Debug\_5.The_Biggest_of_3_Numbers.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\obj\Debug\5. The Biggest of 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\obj\Debug\_5.The_Biggest_of_3_Numbers.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\obj\Debug\_5.The_Biggest_of_3_Numbers.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\bin\Debug\_5.The_Biggest_of_3_Numbers.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\obj\Debug\_5.The_Biggest_of_3_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\5. The Biggest of 3 Numbers\obj\Debug\_5.The_Biggest_of_3_Numbers.pdb

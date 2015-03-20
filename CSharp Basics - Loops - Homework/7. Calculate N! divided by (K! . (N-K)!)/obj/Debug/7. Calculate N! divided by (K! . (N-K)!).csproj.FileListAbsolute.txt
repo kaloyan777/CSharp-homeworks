@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\bin\Debug\_7.Calculate_N__divided_by__K_._N_K___.exe.config
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\bin\Debug\_7.Calculate_N__divided_by__K_._N_K___.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\bin\Debug\_7.Calculate_N__divided_by__K_._N_K___.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\obj\Debug\_7.Calculate_N__divided_by__K_._N_K___.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\obj\Debug\_7.Calculate_N__divided_by__K_._N_K___.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\obj\Debug\7. Calculate N! divided by (K! . (N-K)!).csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\bin\Debug\_7.Calculate_N__divided_by__K_._N_K___.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\obj\Debug\_7.Calculate_N__divided_by__K_._N_K___.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\obj\Debug\_7.Calculate_N__divided_by__K_._N_K___.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\bin\Debug\_7.Calculate_N__divided_by__K_._N_K___.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\bin\Debug\_7.Calculate_N__divided_by__K_._N_K___.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\7. Calculate N! divided by (K! . (N-K)!)\obj\Debug\7. Calculate N! divided by (K! . (N-K)!).csprojResolveAssemblyReference.cache

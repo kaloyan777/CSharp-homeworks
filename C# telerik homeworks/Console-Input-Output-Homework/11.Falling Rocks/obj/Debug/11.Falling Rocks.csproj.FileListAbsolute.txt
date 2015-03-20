@@ -1,0 +1,9 @@
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\11.Falling Rocks\bin\Debug\11.Falling Rocks.exe.config
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\11.Falling Rocks\obj\Debug\11.Falling Rocks.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\11.Falling Rocks\bin\Debug\11.Falling Rocks.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\11.Falling Rocks\bin\Debug\11.Falling Rocks.pdb
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\11.Falling Rocks\obj\Debug\11.Falling Rocks.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\11.Falling Rocks\obj\Debug\11.Falling Rocks.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# I\Console-Input-Output-Homework\11.Falling Rocks\bin\Debug\11.Falling Rocks.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# I\Console-Input-Output-Homework\11.Falling Rocks\obj\Debug\11.Falling Rocks.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# I\Console-Input-Output-Homework\11.Falling Rocks\obj\Debug\11.Falling Rocks.pdb

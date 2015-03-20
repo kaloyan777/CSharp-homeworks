@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\bin\Debug\_4.Number_Comparer.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\obj\Debug\4. Number Comparer.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\bin\Debug\_4.Number_Comparer.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\bin\Debug\_4.Number_Comparer.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\obj\Debug\_4.Number_Comparer.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\obj\Debug\_4.Number_Comparer.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\bin\Debug\_4.Number_Comparer.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\obj\Debug\_4.Number_Comparer.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\4. Number Comparer\obj\Debug\_4.Number_Comparer.pdb

@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\4. Rectangles\bin\Debug\_4.Rectangles.exe.config
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\4. Rectangles\bin\Debug\_4.Rectangles.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\4. Rectangles\bin\Debug\_4.Rectangles.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\4. Rectangles\obj\Debug\4. Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\4. Rectangles\obj\Debug\_4.Rectangles.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\4. Rectangles\obj\Debug\_4.Rectangles.pdb

@@ -1,0 +1,6 @@
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\5. Sorting Numbers\bin\Debug\_5.Sorting_Numbers.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\5. Sorting Numbers\bin\Debug\_5.Sorting_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\5. Sorting Numbers\bin\Debug\_5.Sorting_Numbers.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\5. Sorting Numbers\obj\Debug\5. Sorting Numbers.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\5. Sorting Numbers\obj\Debug\_5.Sorting_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\5. Sorting Numbers\obj\Debug\_5.Sorting_Numbers.pdb

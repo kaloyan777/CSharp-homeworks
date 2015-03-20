@@ -1,0 +1,5 @@
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\16. Counting a Word in a Text\bin\Debug\_16.Counting_a_Word_in_a_Text.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\16. Counting a Word in a Text\bin\Debug\_16.Counting_a_Word_in_a_Text.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\16. Counting a Word in a Text\bin\Debug\_16.Counting_a_Word_in_a_Text.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\16. Counting a Word in a Text\obj\Debug\_16.Counting_a_Word_in_a_Text.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\16. Counting a Word in a Text\obj\Debug\_16.Counting_a_Word_in_a_Text.pdb

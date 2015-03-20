@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\03.Rectangle’s Area\bin\Debug\03.Rectangle’s Area.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\03.Rectangle’s Area\bin\Debug\03.Rectangle’s Area.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\03.Rectangle’s Area\bin\Debug\03.Rectangle’s Area.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\03.Rectangle’s Area\obj\Debug\03.Rectangle’s Area.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Solution1\03.Rectangle’s Area\obj\Debug\03.Rectangle’s Area.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\03.Rectangle’s Area\obj\Debug\03.Rectangle’s Area.pdb

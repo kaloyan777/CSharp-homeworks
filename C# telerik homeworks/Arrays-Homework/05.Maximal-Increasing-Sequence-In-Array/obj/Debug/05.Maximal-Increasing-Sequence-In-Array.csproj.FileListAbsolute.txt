@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\bin\Debug\05.Maximal-Increasing-Sequence-In-Array.exe.config
+C:\Users\BORN\Desktop\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\bin\Debug\05.Maximal-Increasing-Sequence-In-Array.exe
+C:\Users\BORN\Desktop\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\bin\Debug\05.Maximal-Increasing-Sequence-In-Array.pdb
+C:\Users\BORN\Desktop\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\obj\Debug\05.Maximal-Increasing-Sequence-In-Array.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\obj\Debug\05.Maximal-Increasing-Sequence-In-Array.exe
+C:\Users\BORN\Desktop\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\obj\Debug\05.Maximal-Increasing-Sequence-In-Array.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\bin\Debug\05.Maximal-Increasing-Sequence-In-Array.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\obj\Debug\05.Maximal-Increasing-Sequence-In-Array.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\obj\Debug\05.Maximal-Increasing-Sequence-In-Array.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\bin\Debug\05.Maximal-Increasing-Sequence-In-Array.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\bin\Debug\05.Maximal-Increasing-Sequence-In-Array.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\05.Maximal-Increasing-Sequence-In-Array\obj\Debug\05.Maximal-Increasing-Sequence-In-Array.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\8. Prime Number Check\bin\Debug\_8.Prime_Number_Check.exe.config
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\8. Prime Number Check\bin\Debug\_8.Prime_Number_Check.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\8. Prime Number Check\bin\Debug\_8.Prime_Number_Check.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\8. Prime Number Check\obj\Debug\8. Prime Number Check.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\8. Prime Number Check\obj\Debug\_8.Prime_Number_Check.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\8. Prime Number Check\obj\Debug\_8.Prime_Number_Check.pdb

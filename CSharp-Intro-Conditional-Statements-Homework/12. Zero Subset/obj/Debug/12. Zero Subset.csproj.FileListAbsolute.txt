@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\bin\Debug\_12.Zero_Subset.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\bin\Debug\_12.Zero_Subset.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\bin\Debug\_12.Zero_Subset.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\obj\Debug\_12.Zero_Subset.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\obj\Debug\_12.Zero_Subset.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\obj\Debug\12. Zero Subset.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\bin\Debug\_12.Zero_Subset.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\obj\Debug\_12.Zero_Subset.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\12. Zero Subset\obj\Debug\_12.Zero_Subset.pdb

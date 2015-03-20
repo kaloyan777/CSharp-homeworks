@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\02.Rectangular-Matrix-of-Size-N x M\bin\Debug\02.Rectangular-Matrix-of-Size-N x M.exe.config
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\02.Rectangular-Matrix-of-Size-N x M\bin\Debug\02.Rectangular-Matrix-of-Size-N x M.exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\02.Rectangular-Matrix-of-Size-N x M\bin\Debug\02.Rectangular-Matrix-of-Size-N x M.pdb
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\02.Rectangular-Matrix-of-Size-N x M\obj\Debug\02.Rectangular-Matrix-of-Size-N x M.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\02.Rectangular-Matrix-of-Size-N x M\obj\Debug\02.Rectangular-Matrix-of-Size-N x M.exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\02.Rectangular-Matrix-of-Size-N x M\obj\Debug\02.Rectangular-Matrix-of-Size-N x M.pdb

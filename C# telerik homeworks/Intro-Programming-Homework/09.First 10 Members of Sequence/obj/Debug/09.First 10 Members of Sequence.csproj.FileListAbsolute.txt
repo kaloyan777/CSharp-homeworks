@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\09.First 10 Members of Sequence\bin\Debug\09.First 10 Members of Sequence.exe.config
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\09.First 10 Members of Sequence\bin\Debug\09.First 10 Members of Sequence.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\09.First 10 Members of Sequence\bin\Debug\09.First 10 Members of Sequence.pdb
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\09.First 10 Members of Sequence\obj\Debug\09.First 10 Members of Sequence.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\09.First 10 Members of Sequence\obj\Debug\09.First 10 Members of Sequence.pdb
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\09.First 10 Members of Sequence\obj\Debug\09.First 10 Members of Sequence.csprojResolveAssemblyReference.cache

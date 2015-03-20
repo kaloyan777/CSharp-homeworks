@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config

@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\DateTimeNow\bin\Debug\DateTimeNow.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\DateTimeNow\bin\Debug\DateTimeNow.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\DateTimeNow\bin\Debug\DateTimeNow.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\DateTimeNow\obj\Debug\DateTimeNow.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\DateTimeNow\obj\Debug\DateTimeNow.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\DateTimeNow\obj\Debug\DateTimeNow.pdb

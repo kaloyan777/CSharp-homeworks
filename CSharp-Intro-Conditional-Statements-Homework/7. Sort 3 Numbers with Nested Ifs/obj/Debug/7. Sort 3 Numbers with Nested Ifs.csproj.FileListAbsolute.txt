@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\7. Sort 3 Numbers with Nested Ifs\bin\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\7. Sort 3 Numbers with Nested Ifs\bin\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\7. Sort 3 Numbers with Nested Ifs\bin\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\7. Sort 3 Numbers with Nested Ifs\obj\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\7. Sort 3 Numbers with Nested Ifs\obj\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\7. Sort 3 Numbers with Nested Ifs\bin\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\7. Sort 3 Numbers with Nested Ifs\obj\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\7. Sort 3 Numbers with Nested Ifs\obj\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.pdb

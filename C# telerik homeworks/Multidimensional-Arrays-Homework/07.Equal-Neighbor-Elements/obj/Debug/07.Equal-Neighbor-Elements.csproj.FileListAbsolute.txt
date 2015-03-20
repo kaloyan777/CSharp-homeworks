@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\07.Equal-Neighbor-Elements\bin\Debug\07.Equal-Neighbor-Elements.exe.config
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\07.Equal-Neighbor-Elements\obj\Debug\07.Equal-Neighbor-Elements.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\07.Equal-Neighbor-Elements\bin\Debug\07.Equal-Neighbor-Elements.exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\07.Equal-Neighbor-Elements\bin\Debug\07.Equal-Neighbor-Elements.pdb
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\07.Equal-Neighbor-Elements\obj\Debug\07.Equal-Neighbor-Elements.exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\07.Equal-Neighbor-Elements\obj\Debug\07.Equal-Neighbor-Elements.pdb

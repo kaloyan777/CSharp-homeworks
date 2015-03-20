@@ -1,0 +1,10 @@
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\bin\Debug\_6.Calculate_N__divided_by_K_.exe.config
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\bin\Debug\_6.Calculate_N__divided_by_K_.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\bin\Debug\_6.Calculate_N__divided_by_K_.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\obj\Debug\_6.Calculate_N__divided_by_K_.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\obj\Debug\_6.Calculate_N__divided_by_K_.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\bin\Debug\_6.Calculate_N__divided_by_K_.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\obj\Debug\_6.Calculate_N__divided_by_K_.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\obj\Debug\_6.Calculate_N__divided_by_K_.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\bin\Debug\_6.Calculate_N__divided_by_K_.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\6. Calculate N! divided by K!\bin\Debug\_6.Calculate_N__divided_by_K_.pdb

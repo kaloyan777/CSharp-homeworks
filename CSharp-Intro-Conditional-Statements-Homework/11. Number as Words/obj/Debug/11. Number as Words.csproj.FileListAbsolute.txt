@@ -1,0 +1,11 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\bin\Debug\_11.Number_as_Words.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\bin\Debug\_11.Number_as_Words.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\bin\Debug\_11.Number_as_Words.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\obj\Debug\_11.Number_as_Words.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\obj\Debug\_11.Number_as_Words.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\bin\Debug\_11.Number_as_Words.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\obj\Debug\_11.Number_as_Words.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\obj\Debug\_11.Number_as_Words.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\bin\Debug\_11.Number_as_Words.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\bin\Debug\_11.Number_as_Words.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\11. Number as Words\obj\Debug\11. Number as Words.csprojResolveAssemblyReference.cache

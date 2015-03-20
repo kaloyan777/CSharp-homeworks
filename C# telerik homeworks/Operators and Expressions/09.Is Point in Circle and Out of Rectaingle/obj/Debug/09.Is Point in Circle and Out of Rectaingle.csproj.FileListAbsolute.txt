@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\09.Is Point in Circle and Out of Rectaingle\bin\Debug\09.Is Point in Circle and Out of Rectaingle.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\09.Is Point in Circle and Out of Rectaingle\bin\Debug\09.Is Point in Circle and Out of Rectaingle.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\09.Is Point in Circle and Out of Rectaingle\bin\Debug\09.Is Point in Circle and Out of Rectaingle.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\09.Is Point in Circle and Out of Rectaingle\obj\Debug\09.Is Point in Circle and Out of Rectaingle.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Solution1\09.Is Point in Circle and Out of Rectaingle\obj\Debug\09.Is Point in Circle and Out of Rectaingle.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\09.Is Point in Circle and Out of Rectaingle\obj\Debug\09.Is Point in Circle and Out of Rectaingle.pdb

@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.A-nacci\bin\Debug\05.A-nacci.exe.config
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.A-nacci\bin\Debug\05.A-nacci.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.A-nacci\bin\Debug\05.A-nacci.pdb
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.A-nacci\obj\Debug\05.ANacci.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.A-nacci\obj\Debug\05.A-nacci.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\05.A-nacci\obj\Debug\05.A-nacci.pdb

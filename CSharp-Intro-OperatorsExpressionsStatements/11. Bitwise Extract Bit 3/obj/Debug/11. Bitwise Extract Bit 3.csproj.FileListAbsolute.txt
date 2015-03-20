@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe.config
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\11. Bitwise Extract Bit 3\obj\Debug\11. Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.pdb

@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\06.Calculates the sum S\bin\Debug\06.Calculates the sum S.exe.config
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\06.Calculates the sum S\bin\Debug\06.Calculates the sum S.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\06.Calculates the sum S\bin\Debug\06.Calculates the sum S.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\06.Calculates the sum S\obj\Debug\06.Calculates the sum S.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\06.Calculates the sum S\obj\Debug\06.Calculates the sum S.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\06.Calculates the sum S\obj\Debug\06.Calculates the sum S.csprojResolveAssemblyReference.cache

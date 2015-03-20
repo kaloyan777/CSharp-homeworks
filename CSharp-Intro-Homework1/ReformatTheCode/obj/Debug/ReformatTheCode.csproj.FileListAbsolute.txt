@@ -1,0 +1,5 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\ReformatTheCode\bin\Debug\ReformatTheCode.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\ReformatTheCode\bin\Debug\ReformatTheCode.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\ReformatTheCode\bin\Debug\ReformatTheCode.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\ReformatTheCode\obj\Debug\ReformatTheCode.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\ReformatTheCode\obj\Debug\ReformatTheCode.pdb

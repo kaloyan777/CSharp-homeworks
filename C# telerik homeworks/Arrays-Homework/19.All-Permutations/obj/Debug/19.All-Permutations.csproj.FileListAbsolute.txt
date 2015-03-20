@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\Arrays-Homework\19.All-Permutations\bin\Debug\19.All-Permutations.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\19.All-Permutations\bin\Debug\19.All-Permutations.exe.config

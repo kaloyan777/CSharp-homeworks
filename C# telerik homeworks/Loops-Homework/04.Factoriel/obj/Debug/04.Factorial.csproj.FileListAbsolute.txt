@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\04.Factoriel\obj\Debug\04.Factorial.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\04.Factoriel\bin\Debug\04.Factoriel.exe.config
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\04.Factoriel\bin\Debug\04.Factoriel.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\04.Factoriel\bin\Debug\04.Factoriel.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\04.Factoriel\obj\Debug\04.Factoriel.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\04.Factoriel\obj\Debug\04.Factoriel.pdb

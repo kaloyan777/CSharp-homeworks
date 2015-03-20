@@ -1,0 +1,5 @@
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\02.Float and Double Variables\bin\Debug\02.Float and Double Variables.exe.config
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\02.Float and Double Variables\bin\Debug\02.Float and Double Variables.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\02.Float and Double Variables\bin\Debug\02.Float and Double Variables.pdb
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\02.Float and Double Variables\obj\Debug\02.Float and Double Variables.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\02.Float and Double Variables\obj\Debug\02.Float and Double Variables.pdb

@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\04.Tribonacci\bin\Debug\04.Tribonacci.exe.config
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\04.Tribonacci\bin\Debug\04.Tribonacci.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\04.Tribonacci\bin\Debug\04.Tribonacci.pdb
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\04.Tribonacci\obj\Debug\04.Tribonacci.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\04.Tribonacci\obj\Debug\04.Tribonacci.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\04.Tribonacci\obj\Debug\04.Tribonacci.pdb

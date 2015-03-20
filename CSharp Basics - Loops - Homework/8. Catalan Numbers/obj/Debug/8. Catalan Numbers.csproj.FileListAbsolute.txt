@@ -1,0 +1,10 @@
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\8. Catalan Numbers\bin\Debug\_8.Catalan_Numbers.exe.config
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\8. Catalan Numbers\bin\Debug\_8.Catalan_Numbers.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\8. Catalan Numbers\bin\Debug\_8.Catalan_Numbers.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\8. Catalan Numbers\obj\Debug\_8.Catalan_Numbers.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\8. Catalan Numbers\obj\Debug\_8.Catalan_Numbers.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\8. Catalan Numbers\bin\Debug\_8.Catalan_Numbers.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\8. Catalan Numbers\obj\Debug\_8.Catalan_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\8. Catalan Numbers\obj\Debug\_8.Catalan_Numbers.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\8. Catalan Numbers\bin\Debug\_8.Catalan_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\8. Catalan Numbers\bin\Debug\_8.Catalan_Numbers.pdb

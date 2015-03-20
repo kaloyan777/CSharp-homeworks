@@ -1,0 +1,5 @@
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\04.Print 1, 101, 1001\bin\Debug\04.Print 1, 101, 1001.exe.config
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\04.Print 1, 101, 1001\bin\Debug\04.Print 1, 101, 1001.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\04.Print 1, 101, 1001\bin\Debug\04.Print 1, 101, 1001.pdb
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\04.Print 1, 101, 1001\obj\Debug\04.Print 1, 101, 1001.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\04.Print 1, 101, 1001\obj\Debug\04.Print 1, 101, 1001.pdb

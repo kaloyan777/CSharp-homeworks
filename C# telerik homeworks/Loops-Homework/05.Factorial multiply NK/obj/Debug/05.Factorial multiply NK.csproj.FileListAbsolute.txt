@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\05.Factorial multiply NK\bin\Debug\05.Factorial multiply NK.exe.config
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\05.Factorial multiply NK\bin\Debug\05.Factorial multiply NK.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\05.Factorial multiply NK\bin\Debug\05.Factorial multiply NK.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\05.Factorial multiply NK\obj\Debug\05.Factorial multiply NK.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\05.Factorial multiply NK\obj\Debug\05.Factorial multiply NK.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\05.Factorial multiply NK\obj\Debug\05.Factorial multiply NK.pdb

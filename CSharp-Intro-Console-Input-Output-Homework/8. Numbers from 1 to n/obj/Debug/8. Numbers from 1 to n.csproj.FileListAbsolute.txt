@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\bin\Debug\_8.Numbers_from_1_to_n.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\bin\Debug\_8.Numbers_from_1_to_n.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\bin\Debug\_8.Numbers_from_1_to_n.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\obj\Debug\8. Numbers from 1 to n.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\obj\Debug\_8.Numbers_from_1_to_n.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\obj\Debug\_8.Numbers_from_1_to_n.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\bin\Debug\_8.Numbers_from_1_to_n.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\obj\Debug\_8.Numbers_from_1_to_n.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\obj\Debug\_8.Numbers_from_1_to_n.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\bin\Debug\_8.Numbers_from_1_to_n.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\bin\Debug\_8.Numbers_from_1_to_n.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\8. Numbers from 1 to n\obj\Debug\8. Numbers from 1 to n.csprojResolveAssemblyReference.cache

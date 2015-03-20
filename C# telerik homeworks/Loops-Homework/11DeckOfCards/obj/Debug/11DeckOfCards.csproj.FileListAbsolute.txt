@@ -1,0 +1,10 @@
+c:\users\toni\documents\visual studio 2013\Projects\Loops\11DeckOfCards\bin\Debug\11DeckOfCards.exe.config
+c:\users\toni\documents\visual studio 2013\Projects\Loops\11DeckOfCards\bin\Debug\11DeckOfCards.exe
+c:\users\toni\documents\visual studio 2013\Projects\Loops\11DeckOfCards\bin\Debug\11DeckOfCards.pdb
+c:\users\toni\documents\visual studio 2013\Projects\Loops\11DeckOfCards\obj\Debug\11DeckOfCards.exe
+c:\users\toni\documents\visual studio 2013\Projects\Loops\11DeckOfCards\obj\Debug\11DeckOfCards.pdb
+C:\Users\BORN\Downloads\Loops\11DeckOfCards\bin\Debug\11DeckOfCards.exe.config
+C:\Users\BORN\Downloads\Loops\11DeckOfCards\obj\Debug\11DeckOfCards.exe
+C:\Users\BORN\Downloads\Loops\11DeckOfCards\obj\Debug\11DeckOfCards.pdb
+C:\Users\BORN\Downloads\Loops\11DeckOfCards\bin\Debug\11DeckOfCards.exe
+C:\Users\BORN\Downloads\Loops\11DeckOfCards\bin\Debug\11DeckOfCards.pdb

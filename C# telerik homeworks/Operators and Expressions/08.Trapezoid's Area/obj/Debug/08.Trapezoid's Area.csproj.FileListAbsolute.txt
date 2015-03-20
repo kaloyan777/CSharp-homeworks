@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\08.Trapezoid's Area\bin\Debug\08.Trapezoid's Area.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\08.Trapezoid's Area\bin\Debug\08.Trapezoid's Area.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\08.Trapezoid's Area\bin\Debug\08.Trapezoid's Area.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\08.Trapezoid's Area\obj\Debug\08.Trapezoid's Area.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Solution1\08.Trapezoid's Area\obj\Debug\08.Trapezoid's Area.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\08.Trapezoid's Area\obj\Debug\08.Trapezoid's Area.pdb

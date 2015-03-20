@@ -1,0 +1,5 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Homework1\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe.config
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\12. Extract Bit from Integer\obj\Debug\12. Extract Bit from Integer.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.pdb

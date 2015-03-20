@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\10.Catalan N\bin\Debug\10.Catalan N.exe.config
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\10.Catalan N\bin\Debug\10.Catalan N.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\10.Catalan N\bin\Debug\10.Catalan N.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\10.Catalan N\obj\Debug\10.Catalan N.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\10.Catalan N\obj\Debug\10.Catalan N.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\10.Catalan N\obj\Debug\10.Catalan N.pdb

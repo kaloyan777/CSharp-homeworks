@@ -1,0 +1,6 @@
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\3. Primes in Given Range\bin\Debug\_3.Primes_in_Given_Range.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\3. Primes in Given Range\bin\Debug\_3.Primes_in_Given_Range.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\3. Primes in Given Range\bin\Debug\_3.Primes_in_Given_Range.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\3. Primes in Given Range\obj\Debug\3. Primes in Given Range.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\3. Primes in Given Range\obj\Debug\_3.Primes_in_Given_Range.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\3. Primes in Given Range\obj\Debug\_3.Primes_in_Given_Range.pdb

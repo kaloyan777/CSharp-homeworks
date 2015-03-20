@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\bin\Debug\06.K-Elements-That-Have-Maximal-Sum.exe.config
+C:\Users\BORN\Desktop\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\bin\Debug\06.K-Elements-That-Have-Maximal-Sum.exe
+C:\Users\BORN\Desktop\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\bin\Debug\06.K-Elements-That-Have-Maximal-Sum.pdb
+C:\Users\BORN\Desktop\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\obj\Debug\06.K-Elements-That-Have-Maximal-Sum.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\obj\Debug\06.K-Elements-That-Have-Maximal-Sum.exe
+C:\Users\BORN\Desktop\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\obj\Debug\06.K-Elements-That-Have-Maximal-Sum.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\bin\Debug\06.K-Elements-That-Have-Maximal-Sum.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\obj\Debug\06.K-Elements-That-Have-Maximal-Sum.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\obj\Debug\06.K-Elements-That-Have-Maximal-Sum.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\bin\Debug\06.K-Elements-That-Have-Maximal-Sum.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\bin\Debug\06.K-Elements-That-Have-Maximal-Sum.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\06.K-Elements-That-Have-Maximal-Sum\obj\Debug\06.K-Elements-That-Have-Maximal-Sum.csprojResolveAssemblyReference.cache

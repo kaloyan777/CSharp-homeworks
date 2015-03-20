@@ -1,0 +1,9 @@
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\10.Bonus Points\bin\Debug\10.Bonus Points.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\10.Bonus Points\bin\Debug\10.Bonus Points.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\10.Bonus Points\bin\Debug\10.Bonus Points.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\10.Bonus Points\obj\Debug\10.Bonus Points.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\10.Bonus Points\obj\Debug\10.Bonus Points.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\10.Bonus Points\obj\Debug\10.Bonus Points.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\10.Bonus Points\bin\Debug\10.Bonus Points.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\10.Bonus Points\obj\Debug\10.Bonus Points.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\10.Bonus Points\obj\Debug\10.Bonus Points.pdb

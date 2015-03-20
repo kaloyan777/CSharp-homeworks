@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.exe.config
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\2. Gravitation on the Moon\obj\Debug\2. Gravitation on the Moon.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-OperatorsExpressionsStatements\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.pdb

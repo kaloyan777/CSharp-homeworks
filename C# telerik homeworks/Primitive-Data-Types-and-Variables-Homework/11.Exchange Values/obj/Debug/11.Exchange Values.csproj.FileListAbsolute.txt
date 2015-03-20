@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\11.Exchange Values\bin\Debug\11.Exchange Values.exe.config
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\11.Exchange Values\obj\Debug\11.Exchange Values.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\11.Exchange Values\bin\Debug\11.Exchange Values.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\11.Exchange Values\bin\Debug\11.Exchange Values.pdb
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\11.Exchange Values\obj\Debug\11.Exchange Values.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\11.Exchange Values\obj\Debug\11.Exchange Values.pdb

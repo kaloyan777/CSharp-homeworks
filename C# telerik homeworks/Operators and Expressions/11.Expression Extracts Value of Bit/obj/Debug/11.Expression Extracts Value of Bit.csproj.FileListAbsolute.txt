@@ -1,0 +1,11 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\11.Expression Extracts Value of Bit\bin\Debug\11.Expression Extracts Value of Bit.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\11.Expression Extracts Value of Bit\bin\Debug\11.Expression Extracts Value of Bit.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\11.Expression Extracts Value of Bit\bin\Debug\11.Expression Extracts Value of Bit.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\11.Expression Extracts Value of Bit\obj\Debug\11.Expression Extracts Value of Bit.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\11.Expression Extracts Value of Bit\obj\Debug\11.Expression Extracts Value of Bit.pdb
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\11.Expression Extracts Value of Bit\bin\Debug\11.Expression Extracts Value of Bit.exe.config
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\11.Expression Extracts Value of Bit\obj\Debug\11.Expression Extracts Value of Bit.exe
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\11.Expression Extracts Value of Bit\obj\Debug\11.Expression Extracts Value of Bit.pdb
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\11.Expression Extracts Value of Bit\bin\Debug\11.Expression Extracts Value of Bit.exe
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\11.Expression Extracts Value of Bit\bin\Debug\11.Expression Extracts Value of Bit.pdb
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\11.Expression Extracts Value of Bit\obj\Debug\11.Expression Extracts Value of Bit.csprojResolveAssemblyReference.cache

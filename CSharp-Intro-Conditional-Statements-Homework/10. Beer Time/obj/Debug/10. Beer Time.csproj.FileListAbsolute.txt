@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\bin\Debug\_10.Beer_Time.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\bin\Debug\_10.Beer_Time.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\bin\Debug\_10.Beer_Time.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\obj\Debug\10. Beer Time.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\obj\Debug\_10.Beer_Time.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\obj\Debug\_10.Beer_Time.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\bin\Debug\_10.Beer_Time.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\obj\Debug\_10.Beer_Time.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\obj\Debug\_10.Beer_Time.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\bin\Debug\_10.Beer_Time.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\bin\Debug\_10.Beer_Time.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\10. Beer Time\obj\Debug\10. Beer Time.csprojResolveAssemblyReference.cache

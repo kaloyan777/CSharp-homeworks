@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Arrays-Homework\13.Merge-Sort-Algorithm\bin\Debug\13.Merge-Sort-Algorithm.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\13.Merge-Sort-Algorithm\bin\Debug\13.Merge-Sort-Algorithm.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\13.Merge-Sort-Algorithm\bin\Debug\13.Merge-Sort-Algorithm.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\13.Merge-Sort-Algorithm\bin\Debug\13.Merge-Sort-Algorithm.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\13.Merge-Sort-Algorithm\obj\Debug\13.Merge-Sort-Algorithm.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\13.Merge-Sort-Algorithm\obj\Debug\13.Merge-Sort-Algorithm.pdb

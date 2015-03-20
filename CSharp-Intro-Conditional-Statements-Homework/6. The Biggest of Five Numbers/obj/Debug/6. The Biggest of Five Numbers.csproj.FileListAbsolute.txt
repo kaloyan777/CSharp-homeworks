@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\6. The Biggest of Five Numbers\bin\Debug\_6.The_Biggest_of_Five_Numbers.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\6. The Biggest of Five Numbers\bin\Debug\_6.The_Biggest_of_Five_Numbers.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\6. The Biggest of Five Numbers\bin\Debug\_6.The_Biggest_of_Five_Numbers.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\6. The Biggest of Five Numbers\obj\Debug\_6.The_Biggest_of_Five_Numbers.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\6. The Biggest of Five Numbers\obj\Debug\_6.The_Biggest_of_Five_Numbers.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\6. The Biggest of Five Numbers\bin\Debug\_6.The_Biggest_of_Five_Numbers.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\6. The Biggest of Five Numbers\obj\Debug\_6.The_Biggest_of_Five_Numbers.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\6. The Biggest of Five Numbers\obj\Debug\_6.The_Biggest_of_Five_Numbers.pdb

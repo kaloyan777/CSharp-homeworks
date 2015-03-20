@@ -1,0 +1,9 @@
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\obj\Debug\08. Isosceles Triangle.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.pdb

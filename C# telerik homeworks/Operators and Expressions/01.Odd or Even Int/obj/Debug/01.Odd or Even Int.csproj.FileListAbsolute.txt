@@ -1,0 +1,9 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\01.Odd or Even Int\bin\Debug\01.Odd or Even Int.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\01.Odd or Even Int\bin\Debug\01.Odd or Even Int.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\01.Odd or Even Int\bin\Debug\01.Odd or Even Int.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\01.Odd or Even Int\obj\Debug\01.Odd or Even Int.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Solution1\01.Odd or Even Int\obj\Debug\01.Odd or Even Int.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\01.Odd or Even Int\obj\Debug\01.Odd or Even Int.pdb
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\01.Odd or Even Int\bin\Debug\01.Odd or Even Int.exe.config
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\01.Odd or Even Int\obj\Debug\01.Odd or Even Int.exe
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\01.Odd or Even Int\obj\Debug\01.Odd or Even Int.pdb

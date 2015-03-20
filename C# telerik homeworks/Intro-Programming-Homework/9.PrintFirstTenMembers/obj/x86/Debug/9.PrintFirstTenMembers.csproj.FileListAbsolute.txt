@@ -1,0 +1,9 @@
+F:\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\bin\Debug\9.PrintFirstTenMembers.exe
+F:\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\bin\Debug\9.PrintFirstTenMembers.pdb
+F:\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\obj\x86\Debug\9.PrintFirstTenMembers.exe
+F:\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\obj\x86\Debug\9.PrintFirstTenMembers.pdb
+C:\Users\BORN\Downloads\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\obj\x86\Debug\9.PrintFirstTenMembers.exe
+C:\Users\BORN\Downloads\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\obj\x86\Debug\9.PrintFirstTenMembers.pdb
+C:\Users\BORN\Downloads\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\bin\Debug\9.PrintFirstTenMembers.exe
+C:\Users\BORN\Downloads\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\bin\Debug\9.PrintFirstTenMembers.pdb
+C:\Users\BORN\Downloads\1.IntroductionToProgramming(Homework)\9.PrintFirstTenMembers\obj\x86\Debug\9.PrintFirstTenMembers.csprojResolveAssemblyReference.cache

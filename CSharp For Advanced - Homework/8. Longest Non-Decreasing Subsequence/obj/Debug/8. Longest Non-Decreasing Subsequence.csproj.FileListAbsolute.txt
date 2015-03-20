@@ -1,0 +1,6 @@
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\8. Longest Non-Decreasing Subsequence\bin\Debug\_8.Longest_Non_Decreasing_Subsequence.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\8. Longest Non-Decreasing Subsequence\bin\Debug\_8.Longest_Non_Decreasing_Subsequence.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\8. Longest Non-Decreasing Subsequence\bin\Debug\_8.Longest_Non_Decreasing_Subsequence.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\8. Longest Non-Decreasing Subsequence\obj\Debug\8. Longest Non-Decreasing Subsequence.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\8. Longest Non-Decreasing Subsequence\obj\Debug\_8.Longest_Non_Decreasing_Subsequence.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\8. Longest Non-Decreasing Subsequence\obj\Debug\_8.Longest_Non_Decreasing_Subsequence.pdb

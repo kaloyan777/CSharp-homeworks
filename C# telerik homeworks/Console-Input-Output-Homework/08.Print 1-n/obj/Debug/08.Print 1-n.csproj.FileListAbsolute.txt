@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\08.Print 1-n\bin\Debug\08.Print 1-n.exe.config
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\08.Print 1-n\bin\Debug\08.Print 1-n.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\08.Print 1-n\bin\Debug\08.Print 1-n.pdb
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\08.Print 1-n\obj\Debug\08.Print 1-n.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\08.Print 1-n\obj\Debug\08.Print 1-n.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\08.Print 1-n\obj\Debug\08.Print 1-n.pdb

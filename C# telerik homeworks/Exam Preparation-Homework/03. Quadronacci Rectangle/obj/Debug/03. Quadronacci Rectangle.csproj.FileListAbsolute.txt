@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\03. Quadronacci Rectangle\bin\Debug\_03.Quadronacci_Rectangle.exe.config
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\03. Quadronacci Rectangle\bin\Debug\_03.Quadronacci_Rectangle.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\03. Quadronacci Rectangle\bin\Debug\_03.Quadronacci_Rectangle.pdb
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\03. Quadronacci Rectangle\obj\Debug\_03.Quadronacci_Rectangle.exe
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\03. Quadronacci Rectangle\obj\Debug\_03.Quadronacci_Rectangle.pdb
+D:\K\K Programming\Telerik Homeworks\Exam Preparation-Homework\03. Quadronacci Rectangle\obj\Debug\03. Quadronacci Rectangle.csprojResolveAssemblyReference.cache

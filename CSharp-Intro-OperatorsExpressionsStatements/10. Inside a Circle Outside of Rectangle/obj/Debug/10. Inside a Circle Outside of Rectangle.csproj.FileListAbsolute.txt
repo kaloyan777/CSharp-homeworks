@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\10. Inside a Circle Outside of Rectangle\bin\Debug\_10.Inside_a_Circle_Outside_of_Rectangle.exe.config
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\10. Inside a Circle Outside of Rectangle\bin\Debug\_10.Inside_a_Circle_Outside_of_Rectangle.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\10. Inside a Circle Outside of Rectangle\bin\Debug\_10.Inside_a_Circle_Outside_of_Rectangle.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\10. Inside a Circle Outside of Rectangle\obj\Debug\10. Inside a Circle Outside of Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\10. Inside a Circle Outside of Rectangle\obj\Debug\_10.Inside_a_Circle_Outside_of_Rectangle.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\10. Inside a Circle Outside of Rectangle\obj\Debug\_10.Inside_a_Circle_Outside_of_Rectangle.pdb

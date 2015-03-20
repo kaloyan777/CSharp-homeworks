@@ -1,0 +1,16 @@
+using System;
+
+class CompareFloat
+{
+    static void Main()
+    {
+        float eps = 0.000001f;
+        float[] numbersA = { 5.3f, 5.00000001f, -0.0000007f, -4.999999f };
+        float[] numbersB = { 6.01f, 5.00000003f, 0.00000007f, -4.999998f };
+
+        for (int i = 0; i < 4; i++)
+        {
+            float test = numbersA[i] - numbersB[i];
+            Console.WriteLine("{0} - {1} = {2} - {3}", numbersA[i], numbersB[i], test, Math.Abs(test) < eps);
+        }
+    }

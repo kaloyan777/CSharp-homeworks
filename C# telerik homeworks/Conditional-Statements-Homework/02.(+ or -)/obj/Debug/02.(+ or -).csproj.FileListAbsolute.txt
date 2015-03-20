@@ -1,0 +1,9 @@
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\02.(+ or -)\bin\Debug\02.(+ or -).exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\02.(+ or -)\bin\Debug\02.(+ or -).exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\02.(+ or -)\bin\Debug\02.(+ or -).pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\02.(+ or -)\obj\Debug\02.(+ or -).exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\02.(+ or -)\obj\Debug\02.(+ or -).pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\02.(+ or -)\obj\Debug\02.(+ or -).csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\02.(+ or -)\bin\Debug\02.(+ or -).exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\02.(+ or -)\obj\Debug\02.(+ or -).exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\02.(+ or -)\obj\Debug\02.(+ or -).pdb

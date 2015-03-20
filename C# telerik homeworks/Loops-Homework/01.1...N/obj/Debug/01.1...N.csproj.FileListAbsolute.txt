@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\01.1...N\bin\Debug\_01._1._._.N.exe.config
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\01.1...N\bin\Debug\_01._1._._.N.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\01.1...N\bin\Debug\_01._1._._.N.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\01.1...N\obj\Debug\01.1...N.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\01.1...N\obj\Debug\_01._1._._.N.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\01.1...N\obj\Debug\_01._1._._.N.pdb

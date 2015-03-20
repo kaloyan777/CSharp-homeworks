@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\01.Matrix-of-Size-(n,n)\bin\Debug\01.Matrix-of-Size-(n,n).exe.config
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\01.Matrix-of-Size-(n,n)\bin\Debug\01.Matrix-of-Size-(n,n).exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\01.Matrix-of-Size-(n,n)\bin\Debug\01.Matrix-of-Size-(n,n).pdb
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\01.Matrix-of-Size-(n,n)\obj\Debug\01.Matrix-of-Size-(n,n).csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\01.Matrix-of-Size-(n,n)\obj\Debug\01.Matrix-of-Size-(n,n).exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\01.Matrix-of-Size-(n,n)\obj\Debug\01.Matrix-of-Size-(n,n).pdb

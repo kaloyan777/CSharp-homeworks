@@ -1,0 +1,3 @@
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\11\bin\Debug\11.exe.config
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\11\obj\Debug\11.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\11\obj\Debug\11.pdb

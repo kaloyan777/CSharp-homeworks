@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\06.Declare a Boolean isFemale\bin\Debug\06.Declare a Boolean isFemale.exe.config
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\06.Declare a Boolean isFemale\bin\Debug\06.Declare a Boolean isFemale.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\06.Declare a Boolean isFemale\bin\Debug\06.Declare a Boolean isFemale.pdb
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\06.Declare a Boolean isFemale\obj\Debug\06.Declare a Boolean isFemale.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\06.Declare a Boolean isFemale\obj\Debug\06.Declare a Boolean isFemale.pdb
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\06.Declare a Boolean isFemale\obj\Debug\06.Declare a Boolean isFemale.csprojResolveAssemblyReference.cache

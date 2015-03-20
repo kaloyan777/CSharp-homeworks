@@ -1,0 +1,5 @@
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\05.Declare a character variable\bin\Debug\05.Declare a character variable.exe.config
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\05.Declare a character variable\bin\Debug\05.Declare a character variable.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\05.Declare a character variable\bin\Debug\05.Declare a character variable.pdb
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\05.Declare a character variable\obj\Debug\05.Declare a character variable.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\05.Declare a character variable\obj\Debug\05.Declare a character variable.pdb

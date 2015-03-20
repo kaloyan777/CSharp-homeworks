@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.exe.config
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.pdb

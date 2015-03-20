@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\10.IsBit1\bin\Debug\10.IsBit1.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\10.IsBit1\bin\Debug\10.IsBit1.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\10.IsBit1\bin\Debug\10.IsBit1.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\10.IsBit1\obj\Debug\10.IsBit1.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Solution1\10.IsBit1\obj\Debug\10.IsBit1.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\10.IsBit1\obj\Debug\10.IsBit1.pdb

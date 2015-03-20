@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb

@@ -1,0 +1,6 @@
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\9. Remove Names\bin\Debug\_9.Remove_Names.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\9. Remove Names\bin\Debug\_9.Remove_Names.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\9. Remove Names\bin\Debug\_9.Remove_Names.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\9. Remove Names\obj\Debug\_9.Remove_Names.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\9. Remove Names\obj\Debug\_9.Remove_Names.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\9. Remove Names\obj\Debug\9. Remove Names.csprojResolveAssemblyReference.cache

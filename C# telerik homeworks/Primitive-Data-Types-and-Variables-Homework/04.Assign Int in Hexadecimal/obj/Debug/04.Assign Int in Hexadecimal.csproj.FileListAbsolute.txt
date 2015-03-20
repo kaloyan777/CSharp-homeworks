@@ -1,0 +1,5 @@
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\04.Assign Int in Hexadecimal\bin\Debug\04.Assign Int in Hexadecimal.exe.config
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\04.Assign Int in Hexadecimal\bin\Debug\04.Assign Int in Hexadecimal.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\04.Assign Int in Hexadecimal\bin\Debug\04.Assign Int in Hexadecimal.pdb
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\04.Assign Int in Hexadecimal\obj\Debug\04.Assign Int in Hexadecimal.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\04.Assign Int in Hexadecimal\obj\Debug\04.Assign Int in Hexadecimal.pdb

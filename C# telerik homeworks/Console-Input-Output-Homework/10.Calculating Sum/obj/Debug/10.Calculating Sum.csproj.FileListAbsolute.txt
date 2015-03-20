@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\10.Calculating Sum\bin\Debug\10.Calculating Sum.exe.config
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\10.Calculating Sum\bin\Debug\10.Calculating Sum.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\10.Calculating Sum\bin\Debug\10.Calculating Sum.pdb
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\10.Calculating Sum\obj\Debug\10.Calculating Sum.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\10.Calculating Sum\obj\Debug\10.Calculating Sum.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\10.Calculating Sum\obj\Debug\10.Calculating Sum.pdb

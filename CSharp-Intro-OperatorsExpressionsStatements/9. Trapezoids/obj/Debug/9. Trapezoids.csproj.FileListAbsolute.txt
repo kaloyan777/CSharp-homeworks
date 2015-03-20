@@ -1,0 +1,5 @@
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\9. Trapezoids\bin\Debug\_9.Trapezoids.exe.config
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\9. Trapezoids\bin\Debug\_9.Trapezoids.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\9. Trapezoids\bin\Debug\_9.Trapezoids.pdb
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\9. Trapezoids\obj\Debug\_9.Trapezoids.exe
+C:\Users\BORN\Desktop\Homework-OperatorsExpressions_Statements\9. Trapezoids\obj\Debug\_9.Trapezoids.pdb

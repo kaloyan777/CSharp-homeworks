@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb

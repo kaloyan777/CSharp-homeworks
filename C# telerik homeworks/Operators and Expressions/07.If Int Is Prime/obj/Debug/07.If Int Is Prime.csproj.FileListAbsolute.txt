@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\07.If Int Is Prime\bin\Debug\07.If Int Is Prime.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\07.If Int Is Prime\bin\Debug\07.If Int Is Prime.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\07.If Int Is Prime\bin\Debug\07.If Int Is Prime.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\07.If Int Is Prime\obj\Debug\07.If Int Is Prime.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Solution1\07.If Int Is Prime\obj\Debug\07.If Int Is Prime.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\07.If Int Is Prime\obj\Debug\07.If Int Is Prime.pdb

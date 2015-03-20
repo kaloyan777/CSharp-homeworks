@@ -1,0 +1,6 @@
+c:\users\radka-87\documents\visual studio 2012\Projects\4.HomeWork\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\BORN\Downloads\4.HomeWork\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\BORN\Downloads\4.HomeWork\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\BORN\Downloads\4.HomeWork\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\BORN\Downloads\4.HomeWork\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\BORN\Downloads\4.HomeWork\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

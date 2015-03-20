@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\3. Circle Perimeter and Area\bin\Debug\_3.Circle_Perimeter_and_Area.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\3. Circle Perimeter and Area\bin\Debug\_3.Circle_Perimeter_and_Area.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\3. Circle Perimeter and Area\bin\Debug\_3.Circle_Perimeter_and_Area.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\3. Circle Perimeter and Area\obj\Debug\_3.Circle_Perimeter_and_Area.exe
+C:\Users\BORN\Desktop\CSharp-Intro-Console-Input-Output-Homework\3. Circle Perimeter and Area\obj\Debug\_3.Circle_Perimeter_and_Area.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\3. Circle Perimeter and Area\bin\Debug\_3.Circle_Perimeter_and_Area.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\3. Circle Perimeter and Area\obj\Debug\_3.Circle_Perimeter_and_Area.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Console-Input-Output-Homework\3. Circle Perimeter and Area\obj\Debug\_3.Circle_Perimeter_and_Area.pdb

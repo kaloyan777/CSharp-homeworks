@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe.config
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.pdb
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb

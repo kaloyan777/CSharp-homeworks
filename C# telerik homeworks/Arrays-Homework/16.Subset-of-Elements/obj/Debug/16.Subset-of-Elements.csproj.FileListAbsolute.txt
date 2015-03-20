@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\Arrays-Homework\16.Subset-of-Elements\bin\Debug\16.Subset-of-Elements.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\16.Subset-of-Elements\bin\Debug\16.Subset-of-Elements.exe.config

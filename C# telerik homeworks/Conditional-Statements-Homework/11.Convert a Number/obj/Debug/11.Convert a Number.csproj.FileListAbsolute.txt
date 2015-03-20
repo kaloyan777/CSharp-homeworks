@@ -1,0 +1,12 @@
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\11.Convert a Number\bin\Debug\11.Convert a Number.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\11.Convert a Number\bin\Debug\11.Convert a Number.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\11.Convert a Number\bin\Debug\11.Convert a Number.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\11.Convert a Number\obj\Debug\11.Convert a Number.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\11.Convert a Number\obj\Debug\11.Convert a Number.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\11.Convert a Number\obj\Debug\11.Convert a Number.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\11.Convert a Number\bin\Debug\11.Convert a Number.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\11.Convert a Number\obj\Debug\11.Convert a Number.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\11.Convert a Number\obj\Debug\11.Convert a Number.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\11.Convert a Number\obj\Debug\11.Convert a Number.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\11.Convert a Number\bin\Debug\11.Convert a Number.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\11.Convert a Number\bin\Debug\11.Convert a Number.pdb

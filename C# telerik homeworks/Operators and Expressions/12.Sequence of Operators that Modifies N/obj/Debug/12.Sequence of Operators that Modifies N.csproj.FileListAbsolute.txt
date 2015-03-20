@@ -1,0 +1,7 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\12.Sequence of Operators that Modifies N\bin\Debug\12.Sequence of Operators that Modifies N.exe.config
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\12.Sequence of Operators that Modifies N\bin\Debug\12.Sequence of Operators that Modifies N.exe.config
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\12.Sequence of Operators that Modifies N\obj\Debug\12.Sequence of Operators that Modifies N.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\12.Sequence of Operators that Modifies N\bin\Debug\12.Sequence of Operators that Modifies N.exe
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\12.Sequence of Operators that Modifies N\bin\Debug\12.Sequence of Operators that Modifies N.pdb
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\12.Sequence of Operators that Modifies N\obj\Debug\12.Sequence of Operators that Modifies N.exe
+D:\K\K Programming\Telerik Homeworks\Operators and Expressions\12.Sequence of Operators that Modifies N\obj\Debug\12.Sequence of Operators that Modifies N.pdb

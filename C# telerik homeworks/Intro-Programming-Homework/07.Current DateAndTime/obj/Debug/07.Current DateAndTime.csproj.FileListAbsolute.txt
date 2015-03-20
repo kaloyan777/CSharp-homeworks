@@ -1,0 +1,5 @@
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\07.Current DateAndTime\bin\Debug\07.Current DateAndTime.exe.config
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\07.Current DateAndTime\bin\Debug\07.Current DateAndTime.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\07.Current DateAndTime\bin\Debug\07.Current DateAndTime.pdb
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\07.Current DateAndTime\obj\Debug\07.Current DateAndTime.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\07.Current DateAndTime\obj\Debug\07.Current DateAndTime.pdb

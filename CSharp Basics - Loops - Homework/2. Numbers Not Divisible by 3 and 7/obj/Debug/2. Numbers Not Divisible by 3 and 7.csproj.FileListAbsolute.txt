@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\2. Numbers Not Divisible by 3 and 7\bin\Debug\_2.Numbers_Not_Divisible_by_3_and_7.exe.config
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\2. Numbers Not Divisible by 3 and 7\bin\Debug\_2.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\2. Numbers Not Divisible by 3 and 7\bin\Debug\_2.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\2. Numbers Not Divisible by 3 and 7\obj\Debug\_2.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\2. Numbers Not Divisible by 3 and 7\obj\Debug\_2.Numbers_Not_Divisible_by_3_and_7.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\2. Numbers Not Divisible by 3 and 7\bin\Debug\_2.Numbers_Not_Divisible_by_3_and_7.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\2. Numbers Not Divisible by 3 and 7\obj\Debug\_2.Numbers_Not_Divisible_by_3_and_7.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\2. Numbers Not Divisible by 3 and 7\obj\Debug\_2.Numbers_Not_Divisible_by_3_and_7.pdb

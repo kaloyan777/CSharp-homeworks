@@ -1,0 +1,10 @@
+C:\Users\BORN\Desktop\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\bin\Debug\04.Maximal-Sequence-Of-Equal-Elements.exe.config
+C:\Users\BORN\Desktop\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\bin\Debug\04.Maximal-Sequence-Of-Equal-Elements.exe
+C:\Users\BORN\Desktop\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\bin\Debug\04.Maximal-Sequence-Of-Equal-Elements.pdb
+C:\Users\BORN\Desktop\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\obj\Debug\04.Maximal-Sequence-Of-Equal-Elements.exe
+C:\Users\BORN\Desktop\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\obj\Debug\04.Maximal-Sequence-Of-Equal-Elements.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\bin\Debug\04.Maximal-Sequence-Of-Equal-Elements.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\obj\Debug\04.Maximal-Sequence-Of-Equal-Elements.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\obj\Debug\04.Maximal-Sequence-Of-Equal-Elements.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\bin\Debug\04.Maximal-Sequence-Of-Equal-Elements.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\04.Maximal-Sequence-Of-Equal-Elements\bin\Debug\04.Maximal-Sequence-Of-Equal-Elements.pdb

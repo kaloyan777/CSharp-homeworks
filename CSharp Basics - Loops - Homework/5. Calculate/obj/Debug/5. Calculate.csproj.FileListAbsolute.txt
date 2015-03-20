@@ -1,0 +1,10 @@
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\5. Calculate\bin\Debug\_5.Calculate.exe.config
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\5. Calculate\bin\Debug\_5.Calculate.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\5. Calculate\bin\Debug\_5.Calculate.pdb
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\5. Calculate\obj\Debug\_5.Calculate.exe
+C:\Users\BORN\Desktop\CSharp Basics - Loops - Homework\5. Calculate\obj\Debug\_5.Calculate.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\5. Calculate\bin\Debug\_5.Calculate.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\5. Calculate\obj\Debug\_5.Calculate.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\5. Calculate\obj\Debug\_5.Calculate.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\5. Calculate\bin\Debug\_5.Calculate.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp Basics - Loops - Homework\5. Calculate\bin\Debug\_5.Calculate.pdb

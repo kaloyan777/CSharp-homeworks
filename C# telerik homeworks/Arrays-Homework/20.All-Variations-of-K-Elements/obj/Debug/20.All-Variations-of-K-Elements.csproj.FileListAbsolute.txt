@@ -1,0 +1,7 @@
+C:\Users\BORN\Desktop\Arrays-Homework\20.All-Variations-of-K-Elements\bin\Debug\20.All-Variations-of-K-Elements.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\20.All-Variations-of-K-Elements\bin\Debug\20.All-Variations-of-K-Elements.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\20.All-Variations-of-K-Elements\bin\Debug\20.All-Variations-of-K-Elements.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\20.All-Variations-of-K-Elements\bin\Debug\20.All-Variations-of-K-Elements.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\20.All-Variations-of-K-Elements\obj\Debug\20.All-Variations-of-K-Elements.csprojResolveAssemblyReference.cache
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\20.All-Variations-of-K-Elements\obj\Debug\20.All-Variations-of-K-Elements.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\20.All-Variations-of-K-Elements\obj\Debug\20.All-Variations-of-K-Elements.pdb

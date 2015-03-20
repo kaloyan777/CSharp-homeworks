@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\02.1...N, not divisible by 3 and 7\bin\Debug\_02._1._._.N__not_divisible_by_3_and_7.exe.config
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\02.1...N, not divisible by 3 and 7\bin\Debug\_02._1._._.N__not_divisible_by_3_and_7.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\02.1...N, not divisible by 3 and 7\bin\Debug\_02._1._._.N__not_divisible_by_3_and_7.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\02.1...N, not divisible by 3 and 7\obj\Debug\_02._1._._.N__not_divisible_by_3_and_7.exe
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\02.1...N, not divisible by 3 and 7\obj\Debug\_02._1._._.N__not_divisible_by_3_and_7.pdb
+D:\K\K Programming\Telerik Homeworks\Loops-Homework\02.1...N, not divisible by 3 and 7\obj\Debug\02.1...N, not divisible by 3 and 7.csprojResolveAssemblyReference.cache

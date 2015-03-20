@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\06.First and Last Name\bin\Debug\06.First and Last Name.exe.config
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\06.First and Last Name\bin\Debug\06.First and Last Name.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\06.First and Last Name\bin\Debug\06.First and Last Name.pdb
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\06.First and Last Name\obj\Debug\06.First and Last Name.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\06.First and Last Name\obj\Debug\06.First and Last Name.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\06.First and Last Name\obj\Debug\06.First and Last Name.pdb

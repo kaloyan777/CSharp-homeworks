@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\CSharp-Intro-Conditional-Statements-Homework\3. Check for a Play Card\bin\Debug\_3.Check_for_a_Play_Card.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-Conditional-Statements-Homework\3. Check for a Play Card\bin\Debug\_3.Check_for_a_Play_Card.exe.config

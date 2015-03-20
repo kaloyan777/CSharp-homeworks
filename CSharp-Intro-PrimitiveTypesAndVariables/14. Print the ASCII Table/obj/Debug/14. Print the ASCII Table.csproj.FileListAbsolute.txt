@@ -1,0 +1,8 @@
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+C:\Users\BORN\Desktop\CSharp-Intro-PrimitiveTypesAndVariables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp-Intro-PrimitiveTypesAndVariables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb

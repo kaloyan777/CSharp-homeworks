@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\Arrays-Homework\17.Subset -of-K-Elements\bin\Debug\17.Subset -of-K-Elements.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\17.Subset -of-K-Elements\bin\Debug\17.Subset -of-K-Elements.exe.config

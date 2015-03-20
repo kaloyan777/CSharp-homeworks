@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\02.Hello CSharp\bin\Debug\02.Hello CSharp.exe.config
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\02.Hello CSharp\bin\Debug\02.Hello CSharp.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\02.Hello CSharp\bin\Debug\02.Hello CSharp.pdb
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\02.Hello CSharp\obj\Debug\02.Hello CSharp.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\02.Hello CSharp\obj\Debug\02.Hello CSharp.exe
+D:\K\K Programming\Telerik Homeworks\Intro-Programming-Homework\02.Hello CSharp\obj\Debug\02.Hello CSharp.pdb

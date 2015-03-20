@@ -1,0 +1,6 @@
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\03.Longest-Sequence-of-Equal-Strings\bin\Debug\03.Longest-Sequence-of-Equal-Strings.exe.config
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\03.Longest-Sequence-of-Equal-Strings\bin\Debug\03.Longest-Sequence-of-Equal-Strings.exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\03.Longest-Sequence-of-Equal-Strings\bin\Debug\03.Longest-Sequence-of-Equal-Strings.pdb
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\03.Longest-Sequence-of-Equal-Strings\obj\Debug\03.Longest-Sequence-of-Equal-Strings.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\03.Longest-Sequence-of-Equal-Strings\obj\Debug\03.Longest-Sequence-of-Equal-Strings.exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\03.Longest-Sequence-of-Equal-Strings\obj\Debug\03.Longest-Sequence-of-Equal-Strings.pdb

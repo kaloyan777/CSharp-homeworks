@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Solution1\04.Is-Third-Digit-7\bin\Debug\04.Is-Third-Digit-7.exe.config
+D:\K\K Programming\Telerik Homeworks\Solution1\04.Is-Third-Digit-7\bin\Debug\04.Is-Third-Digit-7.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\04.Is-Third-Digit-7\bin\Debug\04.Is-Third-Digit-7.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\04.Is-Third-Digit-7\obj\Debug\04.Is-Third-Digit-7.exe
+D:\K\K Programming\Telerik Homeworks\Solution1\04.Is-Third-Digit-7\obj\Debug\04.Is-Third-Digit-7.pdb
+D:\K\K Programming\Telerik Homeworks\Solution1\04.Is-Third-Digit-7\obj\Debug\04.Is-Third-Digit-7.csprojResolveAssemblyReference.cache

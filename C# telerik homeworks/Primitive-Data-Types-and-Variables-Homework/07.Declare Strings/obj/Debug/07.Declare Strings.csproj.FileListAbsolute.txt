@@ -1,0 +1,6 @@
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\07.Declare Strings\bin\Debug\07.Declare Strings.exe.config
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\07.Declare Strings\bin\Debug\07.Declare Strings.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\07.Declare Strings\bin\Debug\07.Declare Strings.pdb
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\07.Declare Strings\obj\Debug\07.Declare Strings.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\07.Declare Strings\obj\Debug\07.Declare Strings.exe
+D:\K\K Programming\Telerik Homeworks\Primitive-Data-Types-and-Variables-Homework\07.Declare Strings\obj\Debug\07.Declare Strings.pdb

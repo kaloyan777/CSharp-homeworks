@@ -1,0 +1,9 @@
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\05.The Name of The Digit\bin\Debug\05.The Name of The Digit.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\05.The Name of The Digit\bin\Debug\05.The Name of The Digit.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\05.The Name of The Digit\bin\Debug\05.The Name of The Digit.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\05.The Name of The Digit\obj\Debug\05.The Name of The Digit.csprojResolveAssemblyReference.cache
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\05.The Name of The Digit\obj\Debug\05.The Name of The Digit.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework\05.The Name of The Digit\obj\Debug\05.The Name of The Digit.pdb
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\05.The Name of The Digit\bin\Debug\05.The Name of The Digit.exe.config
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\05.The Name of The Digit\obj\Debug\05.The Name of The Digit.exe
+D:\K\K Programming\Telerik Homeworks\Conditional-Statements-Homework-corrected\05.The Name of The Digit\obj\Debug\05.The Name of The Digit.pdb

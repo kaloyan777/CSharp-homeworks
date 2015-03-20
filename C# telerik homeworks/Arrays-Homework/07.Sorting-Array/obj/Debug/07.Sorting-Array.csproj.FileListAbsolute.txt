@@ -1,0 +1,12 @@
+C:\Users\BORN\Desktop\Arrays-Homework\07.Sorting-Array\bin\Debug\07.Sorting-Array.exe.config
+C:\Users\BORN\Desktop\Arrays-Homework\07.Sorting-Array\bin\Debug\07.Sorting-Array.exe
+C:\Users\BORN\Desktop\Arrays-Homework\07.Sorting-Array\bin\Debug\07.Sorting-Array.pdb
+C:\Users\BORN\Desktop\Arrays-Homework\07.Sorting-Array\obj\Debug\07.Sorting-Array.csprojResolveAssemblyReference.cache
+C:\Users\BORN\Desktop\Arrays-Homework\07.Sorting-Array\obj\Debug\07.Sorting-Array.exe
+C:\Users\BORN\Desktop\Arrays-Homework\07.Sorting-Array\obj\Debug\07.Sorting-Array.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\07.Sorting-Array\bin\Debug\07.Sorting-Array.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\07.Sorting-Array\obj\Debug\07.Sorting-Array.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\07.Sorting-Array\obj\Debug\07.Sorting-Array.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\07.Sorting-Array\bin\Debug\07.Sorting-Array.exe
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\07.Sorting-Array\bin\Debug\07.Sorting-Array.pdb
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\07.Sorting-Array\obj\Debug\07.Sorting-Array.csprojResolveAssemblyReference.cache

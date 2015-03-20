@@ -1,0 +1,5 @@
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\05.Strin-Array-Length-Sort\bin\Debug\05.Strin-Array-Length-Sort.exe.config
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\05.Strin-Array-Length-Sort\bin\Debug\05.Strin-Array-Length-Sort.exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\05.Strin-Array-Length-Sort\bin\Debug\05.Strin-Array-Length-Sort.pdb
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\05.Strin-Array-Length-Sort\obj\Debug\05.Strin-Array-Length-Sort.exe
+C:\Users\BORN\Desktop\Multidimensional-Arrays-Homework\05.Strin-Array-Length-Sort\obj\Debug\05.Strin-Array-Length-Sort.pdb

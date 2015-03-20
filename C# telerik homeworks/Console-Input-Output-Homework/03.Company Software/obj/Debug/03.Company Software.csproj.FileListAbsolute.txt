@@ -1,0 +1,5 @@
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\03.Company Software\bin\Debug\03.Company Software.exe.config
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\03.Company Software\bin\Debug\03.Company Software.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\03.Company Software\bin\Debug\03.Company Software.pdb
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\03.Company Software\obj\Debug\03.Company Software.exe
+D:\K\K Programming\Telerik Homeworks\Console-Input-Output-Homework\03.Company Software\obj\Debug\03.Company Software.pdb

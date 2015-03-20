@@ -1,0 +1,6 @@
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\12. Count of Names\bin\Debug\_12.Count_of_Names.exe.config
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\12. Count of Names\bin\Debug\_12.Count_of_Names.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\12. Count of Names\bin\Debug\_12.Count_of_Names.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\12. Count of Names\obj\Debug\_12.Count_of_Names.exe
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\12. Count of Names\obj\Debug\_12.Count_of_Names.pdb
+D:\K\K Programming\C# PHP & Others\SoftUni-Homeworks\CSharp For Advanced - Homework\12. Count of Names\obj\Debug\12. Count of Names.csprojResolveAssemblyReference.cache

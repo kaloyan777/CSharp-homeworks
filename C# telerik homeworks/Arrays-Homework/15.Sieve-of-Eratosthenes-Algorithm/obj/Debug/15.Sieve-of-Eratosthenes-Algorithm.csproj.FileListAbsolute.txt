@@ -1,0 +1,2 @@
+C:\Users\BORN\Desktop\Arrays-Homework\15.Sieve-of-Eratosthenes-Algorithm\bin\Debug\15.Sieve-of-Eratosthenes-Algorithm.exe.config
+D:\K\K Programming\C# PHP & Others\Telerik Homeworks\C# II\Arrays-Homework\15.Sieve-of-Eratosthenes-Algorithm\bin\Debug\15.Sieve-of-Eratosthenes-Algorithm.exe.config
